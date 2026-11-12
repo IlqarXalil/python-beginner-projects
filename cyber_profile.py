@@ -1,0 +1,10 @@
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+OS = input("Enter your OS:")
+py_level = input("Enter your python level:")
+
+print("----- CYBER PROFILE -----")
+print("Name:" ,name)
+print("Age:" ,age)
+print("OS:" ,OS)
+print("Python Level:" ,py_level)
